@@ -53,7 +53,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - Airpods generated the highest number of refunds in absolute terms, reflecting their much higher order volume.
 - The dataset records **zero refunds in 2022**, so this should be treated as a data characteristic rather than evidence that no refunds occurred.
 
-<img src="images/apple%20refund%20images.png" width="600" height="700">
+<img src="images/apple%20refund%20images.png" width="550" height="650">
 
 
 ## Recommendations
