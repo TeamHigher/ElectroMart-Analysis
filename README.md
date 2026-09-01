@@ -77,10 +77,6 @@ The analysis was developed using Excel PivotTables to examine sales, order volum
 
 ![Loyalty Programme](images/Loyalty%20images.png)
 
-### Apple Product Refunds
-
-![Apple Product Refunds](images/apple%20refund%20images.png)
-
 ## Recommendations
 
 1. **Investigate the decline after 2020** to understand the factors behind the reduction in sales, order volume and average order value.
