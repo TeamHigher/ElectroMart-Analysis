@@ -26,7 +26,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - **Macbook Air Laptop** generated approximately **$6.3M** in sales from fewer orders, with an average order value of approximately **$1,588**.
 - The **Samsung Charging Cable Pack** generated high order volume but relatively little revenue, highlighting an opportunity for bundling and cross-selling.
 
-![Product Performance](images/product%20performance%20image.png)
+<img src="images/product%20performance%20image.png" width="800">
 
 ### Regional Performance
 
@@ -35,7 +35,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - **APAC** accounted for approximately **13% of sales**, but recorded the highest average order value at approximately **$279**, compared with the overall average of approximately $260.
 - The stronger AOV in APAC suggests an opportunity to investigate which products and customer behaviours are driving higher-value purchases.
 
-![Regional Performance](images/regional%20performance.png)
+<img src="images/regional%20performance.png" width="800">
 
 ### Loyalty Programme
 
@@ -45,7 +45,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - Loyalty customers also recorded a higher 2022 AOV of approximately **$245**, compared with **$214** for non-loyalty customers.
 - The increasing contribution from loyalty customers suggests that the programme is becoming more valuable over time.
 
-![Loyalty Programme](images/Loyalty%20images.png)
+<img src="images/Loyalty%20images.png" width="800">
 
 ### Apple Product Refunds
 
