@@ -15,6 +15,8 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - Performance weakened further in 2022, with sales falling to approximately **$5.0M**, alongside declines in both order volume and average order value.
 - Monthly sales show clear seasonality, with particularly strong performance toward the end of 2020.
 
+![Yearly Sales Performance](images/Yearly%20growth%20images.png)
+
 ![Monthly Sales Trend](images/mothly%20sales%20trend%20line%20chart.png)
 
 ### Product Performance
@@ -53,29 +55,6 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 
 ![Apple Product Refunds](images/apple%20refund%20images.png)
 
-## Technical Analysis
-
-The analysis was developed using Excel PivotTables to examine sales, order volume, average order value, product performance, regional performance, loyalty behaviour and refunds.
-
-### Yearly Sales Performance
-
-![Yearly Sales Performance](images/Yearly%20growth%20images.png)
-
-### Monthly Sales Performance
-
-![Monthly Sales Performance](images/Monthly%20sales%20images.png)
-
-### Product Performance
-
-![Product Performance](images/product%20performance%20image.png)
-
-### Regional Performance
-
-![Regional Performance](images/regional%20performance.png)
-
-### Loyalty Programme
-
-![Loyalty Programme](images/Loyalty%20images.png)
 
 ## Recommendations
 
