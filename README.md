@@ -24,7 +24,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - **Macbook Air Laptop** generated approximately **$6.3M** in sales from fewer orders, with an average order value of approximately **$1,588**.
 - The **Samsung Charging Cable Pack** generated high order volume but relatively little revenue, highlighting an opportunity for bundling and cross-selling.
 
-![Product Performance](images/product performance image.png)
+![Product Performance](images/product%20performance%20image.png)
 
 ### Regional Performance
 
@@ -33,7 +33,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - **APAC** accounted for approximately **13% of sales**, but recorded the highest average order value at approximately **$279**, compared with the overall average of approximately $260.
 - The stronger AOV in APAC suggests an opportunity to investigate which products and customer behaviours are driving higher-value purchases.
 
-![Regional Performance](images/regional performance.png)
+![Regional Performance](images/regional%20performance.png)
 
 ### Loyalty Programme
 
@@ -43,7 +43,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - Loyalty customers also recorded a higher 2022 AOV of approximately **$245**, compared with **$214** for non-loyalty customers.
 - The increasing contribution from loyalty customers suggests that the programme is becoming more valuable over time.
 
-![Loyalty Programme](images/Loyalty images.png)
+![Loyalty Programme](images/Loyalty%20images.png)
 
 ### Apple Product Refunds
 
@@ -51,7 +51,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - Airpods generated the highest number of refunds in absolute terms, reflecting their much higher order volume.
 - The dataset records **zero refunds in 2022**, so this should be treated as a data characteristic rather than evidence that no refunds occurred.
 
-![Apple Product Refunds](images/apple refund images.png)
+![Apple Product Refunds](images/apple%20refund%20images.png)
 
 ## Technical Analysis
 
@@ -59,27 +59,27 @@ The analysis was developed using Excel PivotTables to examine sales, order volum
 
 ### Yearly Sales Performance
 
-![Yearly Sales Performance](images/Yearly growth images.png)
+![Yearly Sales Performance](images/Yearly%20growth%20images.png)
 
 ### Monthly Sales Performance
 
-![Monthly Sales Performance](images/Monthly sales images.png)
+![Monthly Sales Performance](images/Monthly%20sales%20images.png)
 
 ### Product Performance
 
-![Product Performance](images/product performance image.png)
+![Product Performance](images/product%20performance%20image.png)
 
 ### Regional Performance
 
-![Regional Performance](images/regional performance.png)
+![Regional Performance](images/regional%20performance.png)
 
 ### Loyalty Programme
 
-![Loyalty Programme](images/Loyalty images.png)
+![Loyalty Programme](images/Loyalty%20images.png)
 
 ### Apple Product Refunds
 
-![Apple Product Refunds](images/apple refund images.png)
+![Apple Product Refunds](images/apple%20refund%20images.png)
 
 ## Recommendations
 
