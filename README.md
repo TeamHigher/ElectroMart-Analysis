@@ -15,7 +15,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - Performance weakened further in 2022, with sales falling to approximately **$5.0M**, alongside declines in both order volume and average order value.
 - Monthly sales show clear seasonality, with particularly strong performance toward the end of 2020.
 
-<img scr="images/Yearly%20growth%20images.png" width="800">
+<img src="images/Yearly%20growth%20images.png" width="800">
 
 <img src="images/mothly%20sales%20trend%20line%20chart.png" width="600" height="700">
 
