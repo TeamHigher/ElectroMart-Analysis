@@ -15,7 +15,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - Performance weakened further in 2022, with sales falling to approximately **$5.0M**, alongside declines in both order volume and average order value.
 - Monthly sales show clear seasonality, with particularly strong performance toward the end of 2020.
 
-<img src="images/Yearly%20growth%20images.png" width="800">
+<img src="images/Yearly%20growth.png" width="800">
 
 <img src="images/mothly%20sales%20trend%20line%20chart.png" width="600" height="700">
 
@@ -35,7 +35,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - **APAC** accounted for approximately **13% of sales**, but recorded the highest average order value at approximately **$279**, compared with the overall average of approximately $260.
 - The stronger AOV in APAC suggests an opportunity to investigate which products and customer behaviours are driving higher-value purchases.
 
-<img src="images/regional%20performance.png" width="800">
+<img src="images/regional%20p.png" width="800">
 
 ### Loyalty Programme
 
@@ -45,7 +45,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - Loyalty customers also recorded a higher 2022 AOV of approximately **$245**, compared with **$214** for non-loyalty customers.
 - The increasing contribution from loyalty customers suggests that the programme is becoming more valuable over time.
 
-<img src="images/Loyalty%20images.png" width="800">
+<img src="images/Loyalty%20p.png" width="800">
 
 ### Apple Product Refunds
 
@@ -53,7 +53,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - Airpods generated the highest number of refunds in absolute terms, reflecting their much higher order volume.
 - The dataset records **zero refunds in 2022**, so this should be treated as a data characteristic rather than evidence that no refunds occurred.
 
-<img src="images/apple%20refund%20images.png" width="550" height="650">
+<img src="images/apple%20ref.png" width="550" height="650">
 
 
 ## Recommendations
