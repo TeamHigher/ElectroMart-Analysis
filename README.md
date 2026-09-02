@@ -17,7 +17,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 
 <img src="images/yearly%20growth.png" width="800">
 
-<img src="images/mothly%20sales%20trend%20line%20chart.png" width="600" height="700">
+<img src="images/monthly%20sales%20trend%20chart.png" width="600" height="700">
 
 ### Product Performance
 
