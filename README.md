@@ -45,7 +45,7 @@ The analysis identifies where revenue is concentrated, how customer behaviour ha
 - Loyalty customers also recorded a higher 2022 AOV of approximately **$245**, compared with **$214** for non-loyalty customers.
 - The increasing contribution from loyalty customers suggests that the programme is becoming more valuable over time.
 
-<img src="images/Loyalty%20p.png" width="800">
+<img src="images/loyalty%20p.png" width="800">
 
 ### Apple Product Refunds
 
