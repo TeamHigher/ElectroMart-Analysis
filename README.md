@@ -22,6 +22,7 @@ This analysis was prepared for the Head of Operations to provide a clear view of
 - **Apple Airpods Headphones** generated the highest order volume, accounting for approximately **45% of all orders**, but had a relatively low average order value of approximately $160.
 - The **27in 4K Gaming Monitor** was the largest revenue contributor, generating approximately **$9.85M** in sales and around **35% of total revenue**.
 - **Macbook Air Laptop** generated approximately **$6.3M** in sales from fewer orders, with an average order value of approximately **$1,588**.
+- In North America, Macbook Air sales peaked at approximately **$392K in Q2 2020**, before declining to approximately **$35K by Q4 2022**, driven primarily by a reduction in order volume.
 - The **Samsung Charging Cable Pack** generated high order volume but relatively little revenue, highlighting an opportunity for bundling and cross-selling.
 
 <img src="images/product%20performance%20image.png" width="800">
