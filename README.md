@@ -42,6 +42,7 @@ This analysis was prepared for the Head of Operations to provide a clear view of
 - **2021 marked a turning point**, with loyalty customers overtaking non-loyalty customers in order volume.
 - In 2022, loyalty customers generated approximately **11.1K orders** compared with **10.5K** from non-loyalty customers.
 - Loyalty customers also recorded a higher 2022 AOV of approximately **$245**, compared with **$214** for non-loyalty customers.
+- SQL analysis indicates that loyalty customers made purchases slightly sooner after account creation, averaging approximately **104 days** compared with **107 days** for non-loyalty customers.
 - The increasing contribution from loyalty customers suggests that the programme is becoming more valuable over time.
 
 <img src="images/loyalty%20p.png" width="800">
