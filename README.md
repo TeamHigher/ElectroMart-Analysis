@@ -8,10 +8,10 @@ This analysis was prepared for the Head of Operations to provide a clear view of
 
 ### Sales Performance
 
-- Sales peaked in 2020 at approximately **$10.2M**, following a significant increase from 2019.
-- **2021 recorded the highest order volume at approximately 35.9K orders**, but sales declined as average order value fell from approximately $300 in 2020 to $255.
-- Performance weakened further in 2022, with sales falling to approximately **$5.0M**, alongside declines in both order volume and average order value.
-- Monthly sales show clear seasonality, with particularly strong performance toward the end of 2020.
+- Sales peaked in 2020 at approximately **$10.2M**, representing a **163% increase from 2019**, while average order value increased from approximately **$230 to $300**.
+- **2021 recorded the highest order volume at approximately 35.9K orders**, but sales declined as average order value fell to approximately **$255**, despite order volume increasing slightly.
+- Performance weakened further in 2022, with sales falling **46% to approximately $5.0M**, alongside a decline in orders to approximately **21.6K** and average order value falling to approximately **$230**.
+- Monthly sales show clear seasonality, with particularly strong performance toward the end of 2020. **December 2020 was the strongest month, generating approximately $1.25M in sales from 4.0K orders.**
 
 <img src="images/yearly%20growth.png" width="800">
 
