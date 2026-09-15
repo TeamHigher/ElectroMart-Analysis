@@ -60,10 +60,10 @@ This analysis was prepared for the Head of Operations to provide a clear view of
 ## Recommendations
 
 1. **Investigate the decline after 2020** to understand the factors behind the reduction in sales, order volume and average order value.
-2. **Protect and grow high-value product sales**, particularly products such as gaming monitors and laptops that contribute disproportionately to revenue.
+2. **Protect and grow high-value product sales**, particularly gaming monitors and laptops that contribute disproportionately to revenue, while maintaining availability of high-volume products such as Airpods.
 3. **Increase basket value through bundling and cross-selling**, particularly for high-volume, lower-value products such as charging cables and Airpods.
 4. **Continue investing in the loyalty programme**, given the improvement in loyalty customer order volume and AOV in 2021 and 2022.
-5. **Explore the APAC market further**, particularly the products and customer segments contributing to its higher average order value.
+5. **Explore the APAC market further**, particularly the products and customer segments contributing to its higher average order value, while assessing whether purchasing patterns differ from other regions.
 6. **Investigate Macbook refund drivers** to determine whether product, fulfilment or customer-experience issues are contributing to the historically higher refund rate.
 
 ## Considerations for Future Analysis
