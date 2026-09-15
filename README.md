@@ -31,7 +31,7 @@ This analysis was prepared for the Head of Operations to provide a clear view of
 - **North America** was the largest market, generating approximately **52% of total sales** and **52% of total orders**.
 - **EMEA** was the second-largest region, contributing approximately **29% of sales**.
 - **APAC** accounted for approximately **13% of sales**, but recorded the highest average order value at approximately **$279**, compared with the overall average of approximately $260.
-- **Apple Airpods Headphones** were the most frequently purchased product across all four regions, with approximately **18.6K orders in North America, 11.2K in EMEA, 4.2K in APAC and 1.9K in LATAM**.
+- **Apple Airpods Headphones** were the most frequently purchased product across all four regions, indicating consistently strong demand across ElectroMart's markets.
 - The stronger AOV in APAC suggests an opportunity to investigate whether its higher-value purchases are being driven by different product preferences or customer behaviours.
 
 <img src="images/regional%20p.png" width="800">
@@ -42,7 +42,7 @@ This analysis was prepared for the Head of Operations to provide a clear view of
 - **2021 marked a turning point**, with loyalty customers overtaking non-loyalty customers in order volume.
 - In 2022, loyalty customers generated approximately **11.1K orders** compared with **10.5K** from non-loyalty customers.
 - Loyalty customers also recorded a higher 2022 AOV of approximately **$245**, compared with **$214** for non-loyalty customers.
-- SQL analysis indicates that loyalty customers made purchases slightly sooner after account creation, averaging approximately **104 days** compared with **107 days** for non-loyalty customers.
+- SQL analysis indicates that loyalty customers purchased slightly sooner after account creation, averaging approximately **104 days** compared with **107 days** for non-loyalty customers.
 - The increasing contribution from loyalty customers suggests that the programme is becoming more valuable over time.
 
 <img src="images/loyalty%20p.png" width="800">
