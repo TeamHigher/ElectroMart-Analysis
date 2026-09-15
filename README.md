@@ -50,6 +50,7 @@ This analysis was prepared for the Head of Operations to provide a clear view of
 - **Macbook Air Laptop** recorded the highest Apple refund rate in each year with recorded refunds: **18% in 2019, 17% in 2020 and 6% in 2021**.
 - Airpods generated the highest number of refunds in absolute terms, reflecting their much higher order volume.
 - The dataset records **zero refunds in 2022**, so this should be treated as a data characteristic rather than evidence that no refunds occurred.
+- Across the full dataset, Apple products recorded an overall refund rate of approximately **5.9%**, with **3,111 refunds** recorded.
 
 <img src="images/apple%20refs.png" width="550" height="650">
 
