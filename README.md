@@ -4,46 +4,6 @@ ElectroMart is an e-commerce business focused primarily on consumer electronics 
 
 This analysis was prepared for the Head of Operations to provide a clear view of sales and order performance from 2019 to 2022, covering product and regional performance, customer loyalty, seasonality, and Apple product refunds, and to identify where ElectroMart should focus attention to improve performance.
 
-# ElectroMart E-commerce Analysis
-
-ElectroMart is an e-commerce business focused primarily on consumer electronics and accessories.
-
-This analysis was prepared for the Head of Operations to provide a clear view of sales and order performance from 2019 to 2022, covering product and regional performance, customer loyalty, seasonality, and Apple product refunds, and to identify where ElectroMart should focus attention to improve performance.
-
-## Executive Summary
-
-[Short, high-level summary of the most important findings]
-
-## Summary of Insights
-
-### Sales Performance
-
-[Detailed sales analysis + Excel visual]
-
-### Product Performance
-
-[Detailed product analysis + visual]
-
-### Regional Performance
-
-[Detailed regional analysis + visual]
-
-### Loyalty Programme
-
-[Detailed loyalty analysis + visual]
-
-### Apple Product Refunds
-
-[Detailed refund analysis + visual]
-
-## Recommendations
-
-[Actions based on findings]
-
-## Considerations for Future Analysis
-
-[Limitations / further analysis]
-
 ## Summary of Insights
 
 ### Sales Performance
