@@ -15,7 +15,7 @@ This analysis was prepared for the Head of Operations to provide a clear view of
 
 <img src="images/yearly%20growth.png" width="800">
 
-<img src="images/monthly%20sales%20trend%20chart.png" width="600" height="">
+<img src="images/monthly%20sales%20trend%20chart.png" width="800" height="">
 
 ### Product Performance
 
